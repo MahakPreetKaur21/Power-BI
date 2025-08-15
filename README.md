@@ -1,11 +1,3 @@
-# Power-BI
-*COMPANY*: CODTECH IT SOLUTIONS
-*NAME*: MAHAK PREET KAUR
-*INTERN ID*: CT06DG2312
-*DOMAIN*: POWER BI
-*DURATION*: 6 WEEKS
-*MENTOR*: NEELA SANTOSH
-
 # 🚀 Power BI Dashboard Projects – 4 Tasks Collection
 
 This repository showcases 4 major Power BI projects integrating Excel, SQL, APIs, and Python:
